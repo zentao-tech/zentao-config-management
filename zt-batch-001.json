@@ -1,6 +1,6 @@
 {
     "_comment": "This is Batch 001",
-    "api_url": "https://noon-corrected-transaction-back.trycloudflare.com",
+    "api_url": "https://submit-reserve-acm-caroline.trycloudflare.com",
     "api_version": 1,
     "enabled": true
 }
