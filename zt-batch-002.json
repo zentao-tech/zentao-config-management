@@ -1,0 +1,6 @@
+{
+    "_comment": "This is Batch 002",
+    "api_url": "https://scheduled-controlling-ruby-crossword.trycloudflare.com",
+    "api_version": 1,
+    "enabled": true
+}
